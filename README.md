@@ -105,7 +105,7 @@ El backend usa un archivo `users.json` como base de datos simulada. Asegúrate d
   {
     "id": "admin456",
     "email": "admin@example.com",
-    "password": "admin123",
+    "password": "123456",
     "role": "admin"
   }
 ]
