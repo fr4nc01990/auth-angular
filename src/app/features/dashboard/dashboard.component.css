@@ -1,0 +1,45 @@
+.dashboard-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+}
+h2 {
+  margin-bottom: 20px;
+}
+.error {
+  color: red;
+  margin-bottom: 15px;
+}
+.contacts-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+th,
+td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+th {
+  background-color: #f4f4f4;
+}
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #0056b3;
+}
+button:last-child {
+  background-color: #dc3545;
+}
+button:last-child:hover {
+  background-color: #c82333;
+}
